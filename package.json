@@ -1,0 +1,13 @@
+{
+    "name": "binary-search-trees",
+    "version": "1.0.0",
+    "description": "Binary search tree implementation",
+    "type": "module",
+    "scripts": {
+        "start": "node src/index.js",
+        "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+    },
+    "devDependencies": {
+        "jest": "^30.0.0"
+    }
+}
